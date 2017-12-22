@@ -58,7 +58,7 @@ if (counter === computerNumber) {
 else if (counter >= computerNumber) {
     losses++
     $("#losses").text(losses);
-    $("#status").text("You suck!");
+    $("#status").text("You suck :) !");
     counter = 0;
     crystalValue = 0;
     startGame();  
