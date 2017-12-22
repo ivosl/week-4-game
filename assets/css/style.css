@@ -1,5 +1,8 @@
 body {
     margin: 30px;
+    background-image: url(../images/vintage-leaves.png);
+    background-position: center right;
+    background-repeat: repeat;
 }
 
 .header {
