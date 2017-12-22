@@ -9,7 +9,7 @@ body {
     background: rgb(206, 138, 12);
     font-size: 24px;
     color: white;
-    text-align-last: center;
+    text-align: center;
 
 }
 .rules {
@@ -49,7 +49,7 @@ body {
     padding-top: 10px;
     color: white;
     font-size: 30px;
-    text-align-last: center; 
+    text-align: center; 
   }
   .win-lose {
     width: 100px;
