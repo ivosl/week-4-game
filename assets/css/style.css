@@ -1,0 +1,68 @@
+body {
+    margin: 30px;
+}
+
+.header {
+    width: 200px;
+    height: 50px;
+    padding-top: 24px;
+    background: rgb(206, 138, 12);
+    font-size: 24px;
+    color: white;
+    text-align-last: center;
+
+}
+.rules {
+    width: 400px;
+    height: 250px;
+    padding: 20px 10px;
+    background: rgb(243, 214, 203);
+    margin: 10px 0;
+}
+.crystal-image {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+  }
+.number-to-match {
+    width: 100px;
+    height: 50px;
+    background: lightgreen;
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .score-text{
+      width: 150px;
+      height: 30px;
+      margin: 5px 0;
+      color: white;
+      background: darkolivegreen;
+      text-align: center;
+      padding-top: 5px;
+  }
+  .your-total-score {
+    width: 150px;
+    height: 50px;
+    float: left;
+    background: darkolivegreen;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+    text-align-last: center; 
+  }
+  .win-lose {
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: -45px;
+    background: rgb(166, 223, 241);
+    font-size: 16px;
+  }
+
+  .win-lose p {
+      padding-top: 10px;
+  }
